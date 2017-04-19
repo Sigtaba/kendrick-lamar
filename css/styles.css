@@ -1,0 +1,16 @@
+.sidebar {
+  float: right;
+}
+
+.image-left {
+  float: left;
+}
+
+
+.image-right {
+  float: right;
+}
+
+img {
+  width: 200px
+}
